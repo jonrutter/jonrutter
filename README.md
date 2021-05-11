@@ -2,6 +2,6 @@
  
 Hey, I'm Jon! I'm a front-end web developer with some back-end flair.
 
-I know: HTML, CSS, JavaScript, LAMP Stack with Python/Django.
+My skills: HTML, CSS, JavaScript, React, SCSS, Bootstrap, LAMP Stack with Python/Django.
 
-Get in touch with me at [contact@jonrutter.com](mailto:contact@jonrutter.com)
+Get in touch with me: [contact@jonrutter.com](mailto:contact@jonrutter.com)
