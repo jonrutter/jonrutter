@@ -1,6 +1,6 @@
 # jonrutter
  
-Hey, I'm jon! I'm a front-end web developer with some back-end flair.
+Hey, I'm Jon! I'm a front-end web developer with some back-end flair.
 
 I know: HTML, CSS, JavaScript, LAMP Stack with Python/Django.
 
