@@ -1,16 +1,104 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Jon! 👋</h1>
 
-<!--
-**rutterjt/rutterjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rutterjt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.rutterjt.com/">
+    <img src="https://img.shields.io/badge/Portfolio-0cbaea?style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/rutterjt/">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" />
+  </a>
+</p>
+ 
+I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 👋 I'm: Jon Rutter (he/him)
+- ✨ I'm currently working on: Building some fun projects with React and Gatsby.
+- 🌱 I'm currently learning: TypeScript.
+- 📫 You can reach me at: [contact@rutterjt.com](mailto:contact@rutterjt.com).
+- ⚡ I'm currently obsessed with: ⛸ figure skating, 😁 anime, 🎷 jazz.
+
+<br />
+
+## My Skills
+
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="32"  />
+  </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" height="32"  />
+    </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="32" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="32" />
+  </a>
+</p>
+
+<h3 align="center">Technologies</h3>
+
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" height="32" />
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff" height="32" />
+  </a>
+  <a href="https://www.gatsbyjs.com/">
+    <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=fff" height="32" />
+  </a>
+  <a href="https://mui.com/">
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff" height="32" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" height="32" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Linux">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" height="32" />
+  </a>
+<!--   <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="32" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="32" /> 
+  </a>
+ -->
+</p>
+
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" height="32" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" height="32" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" height="32" />
+  </a>
+</p>
+
+<br />
+
+
+<h2 align="center">My GitHub Stats</h2>
+
+<a align="center" href="https://github.com/rutterjt" style="text-decoration: none">
+  <img src="https://github-readme-stats.vercel.app/api?username=rutterjt&count_private=true&hide=stars,contribs" />
+</a>
+<a align="center" href="https://github.com/rutterjt">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutterjt&layout=compact&hide=python" />
+</a>
