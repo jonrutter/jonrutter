@@ -29,7 +29,35 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 ## My Skills
 
 
-<h3 align="center">Languages</h3>
+<h3>Languages</h3>
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./images/javascript.svg" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="./images/typescript.svg" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="./images/html.svg" alt="HTML" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="./images/css.svg" alt="CSS" /></a>&nbsp;&nbsp;
+</p>
+
+<h3>Frameworks</h3>
+
+<p>
+  <a href="https://reactjs.org/" title="React"><img src="./images/react.svg" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./images/gatsby.svg" alt="Gatsby" /></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org/" title="Redux"><img src="./images/redux.svg" alt="Redux" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="./images/tailwindcss.svg" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
+  <a href="https://mui.com/" title="Material UI"><img src="./images/mui.svg" alt="Material UI" /></a>&nbsp;&nbsp;
+</p>
+
+<h3>Tools</h3>
+
+<p>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="./images/visualstudiocode.svg" alt="VS Code" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="./images/git.svg" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/" title="Github"><img src="./images/github.svg" alt="Github" /></a>&nbsp;&nbsp;
+</p>
+
+
+<!-- <h3 align="center">Languages</h3>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -45,8 +73,8 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="32" />
   </a>
 </p>
-
-<h3 align="center">Technologies</h3>
+ -->
+<!-- <h3 align="center">Technologies</h3>
 
 <p align="center">
   <a href="https://reactjs.org/">
@@ -67,17 +95,16 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" height="32" />
   </a>
-<!--   <a href="https://nodejs.org/">
+  <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="32" />
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="32" /> 
   </a>
- -->
 </p>
+ -->
 
-
-<h3 align="center">Tools</h3>
+<!-- <h3 align="center">Tools</h3>
 
 <p align="center">
   <a href="https://code.visualstudio.com/">
@@ -90,11 +117,11 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" height="32" />
   </a>
 </p>
-
+ -->
 <br />
 
 
-<h2 align="center">My GitHub Stats</h2>
+<h2>My GitHub Stats</h2>
 
 <a align="center" href="https://github.com/rutterjt" style="text-decoration: none">
   <img src="https://github-readme-stats.vercel.app/api?username=rutterjt&count_private=true&hide=stars,contribs" />
