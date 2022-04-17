@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/rutterjt/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.rutterjt.com/">
+  <a href="https://www.jonrutter.io/">
     <img src="https://img.shields.io/badge/Portfolio-0cbaea?style=for-the-badge" />
   </a>
   <a href="https://twitter.com/rutterjt/">
@@ -21,7 +21,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 - 👋 I'm: Jon Rutter (he/him)
 - ✨ I'm currently working on: Building some fun projects with React and Gatsby.
 - 🌱 I'm currently learning: TypeScript.
-- 📫 You can reach me at: [contact@rutterjt.com](mailto:contact@rutterjt.com).
+- 📫 You can reach me at: [contact@jonrutter.io](mailto:contact@jonrutter.io).
 - ⚡ I'm currently obsessed with: ⛸ figure skating, 😁 anime, 🎷 jazz.
 
 <br />
