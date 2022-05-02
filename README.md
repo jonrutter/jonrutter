@@ -124,7 +124,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 <h2>My GitHub Stats</h2>
 
 <a align="center" href="https://github.com/rutterjt" style="text-decoration: none">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutterjt&count_private=true&hide=stars,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutterjt&count_private=true&hide=stars" />
 </a>
 <a align="center" href="https://github.com/rutterjt">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutterjt&layout=compact&hide=python" />
