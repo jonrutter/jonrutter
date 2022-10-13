@@ -28,7 +28,6 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 
 ## My Skills
 
-
 <h3>Languages</h3>
 
 <p>
@@ -36,6 +35,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="./images/typescript.svg" alt="TypeScript" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="./images/html.svg" alt="HTML" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="./images/css.svg" alt="CSS" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="./images/python.svg" alt="Python" /></a>&nbsp;&nbsp;
 </p>
 
 <h3>Frameworks</h3>
@@ -55,7 +55,6 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://git-scm.com/" title="Git"><img src="./images/git.svg" alt="Git" /></a>&nbsp;&nbsp;
   <a href="https://github.com/" title="Github"><img src="./images/github.svg" alt="Github" /></a>&nbsp;&nbsp;
 </p>
-
 
 <!-- <h3 align="center">Languages</h3>
 
@@ -99,7 +98,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="32" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="32" /> 
+    <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="32" />
   </a>
 </p>
  -->
@@ -119,7 +118,6 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 </p>
  -->
 <br />
-
 
 <h2>My GitHub Stats</h2>
 
