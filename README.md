@@ -54,6 +54,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="./images/visualstudiocode.svg" alt="VS Code" /></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="./images/git.svg" alt="Git" /></a>&nbsp;&nbsp;
   <a href="https://github.com/" title="Github"><img src="./images/github.svg" alt="Github" /></a>&nbsp;&nbsp;
+  <a href="https://kernel.org/" title="Linux"><img src="./images/linux.svg" alt="Linux" /></a>&nbsp;&nbsp;
 </p>
 
 <!-- <h3 align="center">Languages</h3>
