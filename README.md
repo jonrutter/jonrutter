@@ -46,6 +46,8 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://redux.js.org/" title="Redux"><img src="./images/redux.svg" alt="Redux" /></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="./images/tailwindcss.svg" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
   <a href="https://mui.com/" title="Material UI"><img src="./images/mui.svg" alt="Material UI" /></a>&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" title="Django"><img src="./images/django.svg" alt="Django" /></a>&nbsp;&nbsp;
+
 </p>
 
 <h3>Tools</h3>
