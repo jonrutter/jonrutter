@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/rutterjt/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.rutterjt.com/">
+  <a href="https://www.jonrutter.io/">
     <img src="https://img.shields.io/badge/Portfolio-0cbaea?style=for-the-badge" />
   </a>
   <a href="https://twitter.com/rutterjt/">
@@ -21,7 +21,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 - 👋 I'm: Jon Rutter (he/him)
 - ✨ I'm currently working on: Building some fun projects with React and Gatsby.
 - 🌱 I'm currently learning: TypeScript.
-- 📫 You can reach me at: [contact@rutterjt.com](mailto:contact@rutterjt.com).
+- 📫 You can reach me at: [contact@jonrutter.io](mailto:contact@jonrutter.io).
 - ⚡ I'm currently obsessed with: ⛸ figure skating, 😁 anime, 🎷 jazz.
 
 <br />
@@ -43,7 +43,6 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 <p>
   <a href="https://reactjs.org/" title="React"><img src="./images/react.svg" alt="React" /></a>&nbsp;&nbsp;
   <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./images/gatsby.svg" alt="Gatsby" /></a>&nbsp;&nbsp;
-  <a href="https://redux.js.org/" title="Redux"><img src="./images/redux.svg" alt="Redux" /></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="./images/tailwindcss.svg" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
   <a href="https://mui.com/" title="Material UI"><img src="./images/mui.svg" alt="Material UI" /></a>&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" title="Django"><img src="./images/django.svg" alt="Django" /></a>&nbsp;&nbsp;
@@ -125,7 +124,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 <h2>My GitHub Stats</h2>
 
 <a align="center" href="https://github.com/rutterjt" style="text-decoration: none">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutterjt&count_private=true&hide=stars,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutterjt&count_private=true&hide=stars" />
 </a>
 <a align="center" href="https://github.com/rutterjt">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutterjt&layout=compact" />
