@@ -28,7 +28,6 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 
 ## My Skills
 
-
 <h3>Languages</h3>
 
 <p>
@@ -36,6 +35,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="./images/typescript.svg" alt="TypeScript" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="./images/html.svg" alt="HTML" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="./images/css.svg" alt="CSS" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="./images/python.svg" alt="Python" /></a>&nbsp;&nbsp;
 </p>
 
 <h3>Frameworks</h3>
@@ -45,6 +45,8 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./images/gatsby.svg" alt="Gatsby" /></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="./images/tailwindcss.svg" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
   <a href="https://mui.com/" title="Material UI"><img src="./images/mui.svg" alt="Material UI" /></a>&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" title="Django"><img src="./images/django.svg" alt="Django" /></a>&nbsp;&nbsp;
+
 </p>
 
 <h3>Tools</h3>
@@ -53,8 +55,8 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="./images/visualstudiocode.svg" alt="VS Code" /></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="./images/git.svg" alt="Git" /></a>&nbsp;&nbsp;
   <a href="https://github.com/" title="Github"><img src="./images/github.svg" alt="Github" /></a>&nbsp;&nbsp;
+  <a href="https://kernel.org/" title="Linux"><img src="./images/linux.svg" alt="Linux" /></a>&nbsp;&nbsp;
 </p>
-
 
 <!-- <h3 align="center">Languages</h3>
 
@@ -98,7 +100,7 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="32" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="32" /> 
+    <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="32" />
   </a>
 </p>
  -->
@@ -119,12 +121,11 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
  -->
 <br />
 
-
 <h2>My GitHub Stats</h2>
 
 <a align="center" href="https://github.com/rutterjt" style="text-decoration: none">
   <img src="https://github-readme-stats.vercel.app/api?username=rutterjt&count_private=true&hide=stars" />
 </a>
 <a align="center" href="https://github.com/rutterjt">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutterjt&layout=compact&hide=python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutterjt&layout=compact" />
 </a>
