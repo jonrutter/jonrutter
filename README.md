@@ -19,8 +19,8 @@ I'm a front-end developer specializing in React, Gatsby, and Tailwind CSS.
 ## About Me
 
 - 👋 I'm: Jon Rutter (he/him)
-- ✨ I'm currently working on: Building some fun projects with React and Gatsby.
-- 🌱 I'm currently learning: Design patterns.
+- ✨ I'm currently working on: some fun React/TypeScript projects.
+- 🌱 I'm currently learning: design patterns.
 - 📫 You can reach me at: [contact@jonrutter.io](mailto:contact@jonrutter.io).
 - ⚡ I'm currently obsessed with: ⛸ figure skating, 😁 anime, 🍲 cooking.
 
