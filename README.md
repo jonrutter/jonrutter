@@ -38,11 +38,12 @@ I'm a front-end developer specializing in React, Gatsby, and Tailwind CSS.
   <a href="https://www.python.org/" title="Python"><img src="./images/python.svg" alt="Python" /></a>&nbsp;&nbsp;
 </p>
 
-<h3>Frameworks</h3>
+<h3>Libraries & Frameworks</h3>
 
 <p>
   <a href="https://reactjs.org/" title="React"><img src="./images/react.svg" alt="React" /></a>&nbsp;&nbsp;
   <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./images/gatsby.svg" alt="Gatsby" /></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org/" title="Redux"><img src="./images/redux.svg" alt="Redux" /></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="./images/tailwindcss.svg" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
   <a href="https://mui.com/" title="Material UI"><img src="./images/mui.svg" alt="Material UI" /></a>&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" title="Django"><img src="./images/django.svg" alt="Django" /></a>&nbsp;&nbsp;
