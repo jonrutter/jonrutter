@@ -12,7 +12,7 @@
   </a>
 </p>
  
-I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
+I'm a front-end developer specializing in React, Gatsby, and Tailwind CSS.
 
 <br />
 
@@ -20,9 +20,9 @@ I'm a Front End Web Developer specializing in React, Gatsby, and Tailwind CSS.
 
 - 👋 I'm: Jon Rutter (he/him)
 - ✨ I'm currently working on: Building some fun projects with React and Gatsby.
-- 🌱 I'm currently learning: TypeScript.
+- 🌱 I'm currently learning: Design patterns.
 - 📫 You can reach me at: [contact@jonrutter.io](mailto:contact@jonrutter.io).
-- ⚡ I'm currently obsessed with: ⛸ figure skating, 😁 anime, 🎷 jazz.
+- ⚡ I'm currently obsessed with: ⛸ figure skating, 😁 anime, 🍲 cooking.
 
 <br />
 
